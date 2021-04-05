@@ -1,0 +1,24 @@
+astroid==2.5.1
+bokeh==2.3.0
+isort==5.8.0
+Jinja2==2.11.3
+lazy-object-proxy==1.6.0
+MarkupSafe==1.1.1
+mccabe==0.6.1
+numpy==1.20.1
+packaging==20.9
+pandas==1.2.3
+Pillow==8.1.2
+pycodestyle==2.7.0
+pyflakes==2.3.0
+pylint==2.7.2
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2021.1
+PyYAML==5.4.1
+-e git+https://github.com/rioterz/riotstat.git@db52c5eb87606aa356438e0a40bd650036d8f4f2#egg=riotstat
+six==1.15.0
+toml==0.10.2
+tornado==6.1
+typing-extensions==3.7.4.3
+wrapt==1.12.1
